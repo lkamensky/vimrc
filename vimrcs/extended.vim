@@ -14,9 +14,9 @@ if has("mac") || has("macunix")
 elseif has("win16") || has("win32")
     set gfn=Hack:h14,Source\ Code\ Pro:h12,Bitstream\ Vera\ Sans\ Mono:h11
 elseif has("gui_gtk2")
-    set gfn=Source\ Code\ Pro\ 12,Bitstream\ Vera\ Sans\ Mono\ 11
+    " set gfn=Source\ Code\ Pro\ 12,Bitstream\ Vera\ Sans\ Mono\ 11
 elseif has("linux")
-    set gfn=Source\ Code\ Pro\ 12,Bitstream\ Vera\ Sans\ Mono\ 11
+    " set gfn=Source\ Code\ Pro\ 12,Bitstream\ Vera\ Sans\ Mono\ 11
 elseif has("unix")
     set gfn=Monospace\ 11
 endif
@@ -36,9 +36,9 @@ set guioptions-=L
 " Colorscheme
 set background=dark
 " colorscheme molokai
-" colorscheme peaksea
+colorscheme peaksea
 " colorscheme mayansmoke
-colorscheme jellybeans
+" colorscheme jellybeans
 " colorscheme molokai_dark
 
 
