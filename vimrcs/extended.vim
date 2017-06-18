@@ -36,9 +36,9 @@ set guioptions-=L
 " Colorscheme
 set background=dark
 " colorscheme molokai
-colorscheme peaksea
+" colorscheme peaksea
 " colorscheme mayansmoke
-" colorscheme jellybeans
+colorscheme jellybeans
 " colorscheme molokai_dark
 
 

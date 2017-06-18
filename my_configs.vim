@@ -83,3 +83,6 @@ if has("autocmd")
     au VimLeave * silent execute '!echo -ne "\e[ q"' | redraw!
 endif
 
+" syntax one
+" highlight Pmenu ctermfg=0 ctermbg=15 guifg=#ffffff guibg=#000000
+" highlight PmenuSel ctermfg=0 ctermbg=15 guifg=#ffffff guibg=#000000
